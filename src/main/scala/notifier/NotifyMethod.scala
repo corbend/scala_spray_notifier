@@ -1,0 +1,5 @@
+package notifier
+
+trait NotifyMethod {
+
+}
